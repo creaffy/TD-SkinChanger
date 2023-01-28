@@ -22,6 +22,7 @@ Tactical Duty.io Skin Changer
 * You **do not** need to use upper case for commands
 * **cosmetics.json** file might be **out of date** when the game updates and in that case you're going to have to use your own imagination and brain to find new skin IDs. I suggest you do that by dumping game's assets with something like **Assets Studio** and then looking at file names.
 * You **cannot change your skin mid-game**, it will update when you enter a new game
+* As of right now (V1), this **does not** support weapon skins. I will work on that once they're released in-game for all players
 * **You can get banned for using this** but don't worry, it's not very likely because TD has no anticheat. I will not be taking responsibiliy for lost accounts.
 * Tactical Duty uses IP bans
 * **As far as I'm concerned**, this works server-side so everybody should be able to see your skin
