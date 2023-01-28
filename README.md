@@ -6,7 +6,7 @@ Tactical Duty.io Skin Changer
 * Go to **Releases** tab
 * Download the newest version
 * Unzip with for example WinRAR
-* Run **TD Skin Changer.exe**
+* Run **TD SkinChanger.exe**
 
 ### **Commands**
 ***
