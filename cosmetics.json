@@ -1,5 +1,5 @@
 {
-  "skins": [
+  "OUTFIT": [
     [0, "Default"],
     [1, "Mr Shroom"],
     [2, "Astronaout"],
@@ -50,7 +50,7 @@
     [47, "Space Dragon"],
     [48, "Glitched"]
   ],
-  "knives": [
+  "KNIFE": [
     [0, "Default"],
     [1, "Unknown Name"],
     [2, "Contrast"],
@@ -66,5 +66,14 @@
     [12, "Unknown Name"],
     [13, "Unknown Name"],
     [14, "Unknown Name"]
+  ],
+  "AK": [
+    [0, "Default"],
+    [1, "Unknown Name"],
+    [2, "Unknown Name"],
+    [3, "Unknown Name"],
+    [4, "Acid"],
+    [5, "Unknown Name"],
+    [6, "Wavy Blue"]
   ]
 }
