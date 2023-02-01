@@ -19,6 +19,19 @@ Slots are basically just elements of your TD locker. So for example outfit or a 
 **/HELP** - Sends this guide.
 **/EXIT** - Kills the process. Click Ctrl+C to cancel.
 **/CLEAR** - Clears the terminal up.
+**/ALIAS** - List of command abbreviations.
+**/ABBREVIATIONS** - List of slots abbreviations.
+### Shorter Forms
+Commands **/SET** and **/IDS** can be run as one step commands instead of 2/3 step commands, examples:
+```
+/SET OUTFIT 43
+/IDS KNIFE
+```
+These of course can be used with alias/abbreviations, examples:
+```
+/S OTF 37
+/ID AK
+```
 
 ## **Important Notes**
 * You **do not** need to use upper case for commands
