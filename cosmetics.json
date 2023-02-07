@@ -67,13 +67,25 @@
     [13, "Venomous"],
     [14, "Yellow Glow"]
   ],
+  "AR15": [],
   "AK": [
     [0, "Default"],
-    [1, "Unknown Name"],
-    [2, "Unknown Name"],
-    [3, "Unknown Name"],
+    [1, "Purple Pixels (?)"],
+    [2, "Magma (?)"],
+    [3, "Candycane (?)"],
     [4, "Acid"],
-    [5, "Unknown Name"],
-    [6, "Wavy Blue"]
-  ]
+    [5, "Pink + White (?)"],
+    [6, "Wavy Blue"],
+    [7, "Elderflame (?)"],
+    [8, "Poison (?)"]
+  ],
+  "FAMAS": [],
+  "RENETTI": [],
+  "50GS": [],
+  "J358": [],
+  "LOTUS": [],
+  "M4": [],
+  "ARCTIC": [],
+  "LK24": [],
+  "HS2126": []
 }
